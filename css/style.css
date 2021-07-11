@@ -1,0 +1,10 @@
+body{
+    color:black
+}
+.jumbotron{
+    /*image taken from https://pixabay.com/photos/test-tube-lab-medical-research-214185/*/
+    background-image: url("test-214185_1280.jpg");
+    background-size:100%100%;
+    text-align: center
+    
+}
